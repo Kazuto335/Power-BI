@@ -11,7 +11,7 @@ Store my Power BI work
 <img src="https://raw.githubusercontent.com/Kazuto335/Power-BI/main/DifferentStyle.png">
 
 <h2>Hospital Dashboard</h2>
-<p>This Dashboard is based on Panchkula's Govt. Hospital and contain patient information like their name, address, uhid, phoneno, bill date, catogery, scheame, type, service type, age. While working on this dataset i use my knowlegde to perform operations like Data Modeling, Data Cleaning, Data Transformation. See the complete project report <a href = "Hospital Dashboard.pdf"> Here </a>.</p>
+<p>This Dashboard is based on Panchkula's Govt. Hospital and contain patient information like their name, address, uhid, phoneno, bill date, catogery, scheame, type, service type, age. While working on this dataset i use my knowlegde to perform operations like Data Modeling, Data Cleaning, Data Transformation. See the complete project report <a href = 'https://raw.githubusercontent.com/Kazuto335/Power-BI/19e5c9f1b37aef0bce14d245e1e0865cfab0a6be/Hospital%20Dashboard.pdf'> Here </a>.</p>
 Operatios which i perform in this DataSet:
 <li>Data Prepration</li>
 <li>Spliting the dataset because we want to perform analysis on Infectious Disease Screening and some Specific Tests only. </li>
